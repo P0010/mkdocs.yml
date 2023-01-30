@@ -24,6 +24,7 @@ theme:
 
   site_author: Petr
 
+# навигация
 nav:
   - Главная: index.md
   - Plans: 
